@@ -53,4 +53,4 @@ Deployed and enhanced KP’s official website using **React, HTML, & CSS** to cr
 
 ## 📜 Certifications
 - [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/M7W4J59Z3GRU)
-- [QuantConnect League](https://github.com/Ruuudy1)
+- [Google AI Essentials (Prompt Engineering)](https://coursera.org/verify/YH46N5F8QHYO)
