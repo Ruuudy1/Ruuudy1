@@ -58,6 +58,14 @@ Deployed and enhanced KP’s official website using **React, HTML, & CSS** to cr
 - **Google Data Analytics Professional Certificate** - *Summer 2024*  
   Mastered data cleaning, visualization, and analysis using **Google Sheets**, **SQL**, **Tidyverse**, and **Tableau**.
 
+- **Intermediate Cybersecurity (CYB102)**  
+  *Completed 3-month CodePath course in collaboration with Meta*  
+  - Blue Team Defense Concepts: Understanding the role of Blue Teams in Security Operations Centers (SOCs)  
+  - Endpoint Monitoring: Monitoring logs, using SIEMs and HIDS tools, conducting vulnerability scans  
+  - Network Monitoring: Packet sniffing, intrusion detection, and prevention systems  
+  - Incident Response: Identifying attack vectors, triage, containment, and recovery  
+  - Threat Intelligence: Utilizing ATT&CK and other frameworks to respond to threats
+
 ## 🌟 Projects
 
 ### Conway’s Game of Life
