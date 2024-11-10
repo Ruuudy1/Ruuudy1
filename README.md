@@ -46,7 +46,7 @@
 Representing UCSD in their Official Quantitative Trading Team, competing in QuantConnect’s Open-Quant League.
 
 ### KP Fullstack Software Developer
-*June 2024 – Present*  
+*June 2024 – October 2024*  
 Deployed and enhanced KP’s official website using **React, HTML, & CSS** to create responsive interfaces, while implementing real-time updates based on user feedback.
 
 ## 🎓 Education
