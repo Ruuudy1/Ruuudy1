@@ -1,7 +1,7 @@
 # Rudy Osuna (he/him)
 
 
-<h2 align="left">👋 Hi, I'm Rudy Osuna, a passionate third-year Computer Science student at UC San Diego, with a minor in Technology, Innovation & Supply Chain. I'm eager to apply my skills in data analysis, fullstack development, and quantitative trading. Welcome to my GitHub!</h2>
+<h2 align="left">👋 Hi, I'm Rudy Osuna, a passionate third-year Computer Science student at UC San Diego, with a minor in Technology, Innovation & Supply Chain. I'm eager to apply my skills in data analysis, fullstack development, and Quantitative Algorithmic Trading. Welcome to my GitHub!</h2>
 
 
 <img align="right" height="200" src="https://md-tabassum-hossain-emon.netlify.app/project/machine_learning/featured.gif"  />
