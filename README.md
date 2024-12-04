@@ -85,4 +85,5 @@ Deployed and enhanced KP’s official website using **React, HTML, & CSS** to cr
 
 ## 📜 Certifications
 - [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/M7W4J59Z3GRU)
+- [Meta X CodePath Intermediate Cybersecurity Course (CYB 102)](file:///C:/Users/ruuud/Downloads/Rudy%20Osuna.pdf)
 - [Google AI Essentials (Prompt Engineering)](https://coursera.org/verify/YH46N5F8QHYO)
