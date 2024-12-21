@@ -81,7 +81,7 @@ Deployed and enhanced KP’s official website using **React, HTML, & CSS** to cr
 ## 🌎 Languages
 - English
 - Spanish
-- Portuguese (1000+ consecutive days)
+- Portuguese (1100+ consecutive days)
 
 ## 📜 Certifications
 - [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/M7W4J59Z3GRU)
