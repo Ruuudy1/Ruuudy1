@@ -30,6 +30,7 @@
 - Email: [ruosuna@ucsd.edu](mailto:ruosuna@ucsd.edu)
 - LinkedIn: [linkedin.com/in/rudy-osuna/](https://linkedin.com/in/rudy-osuna/)
 - GitHub: [github.com/Ruuudy1](https://github.com/Ruuudy1)
+- QuantConnect: [https://www.quantconnect.com/u/rudy-osuna#certificates](https://www.quantconnect.com/u/rudy-osuna#certificates)
 
 ## 🛠️ Technical Skills
 
@@ -84,6 +85,8 @@ Deployed and enhanced KP’s official website using **React, HTML, & CSS** to cr
 - Portuguese (1100+ consecutive days)
 
 ## 📜 Certifications
+- [1st Place Winner of QuantConnects 2024-Q3 Quant League](https://www.linkedin.com/in/rudy-osuna/details/certifications/1735622028916/single-media-viewer/?profileId=ACoAAD9LcvMBz9ish5PyIlqnO-Uq7RhvH4qdOtQ)
+- [QuantConnect / US Equities 101 Boot Camp Completition](https://www.quantconnect.com/u/rudy-osuna#certificates)
 - [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/M7W4J59Z3GRU)
 - [Meta X CodePath Intermediate Cybersecurity Course (CYB 102)](https://www.linkedin.com/in/rudy-osuna/overlay/1733320892938/single-media-viewer/?profileId=ACoAAD9LcvMBz9ish5PyIlqnO-Uq7RhvH4qdOtQ)
 - [Google AI Essentials (Prompt Engineering)](https://coursera.org/verify/YH46N5F8QHYO)
