@@ -54,7 +54,7 @@ Deployed and enhanced KP’s official website using **React, HTML, & CSS** to cr
 
 - **University of California, San Diego (UCSD)** - *Aug 2022 – Present*  
   *Majoring in Computer Science*  
-  Minor: Technology, Innovation & Supply Chain
+  Minor: MGT - Business Analytics
 
 - **Google Data Analytics Professional Certificate** - *Summer 2024*  
   Mastered data cleaning, visualization, and analysis using **Google Sheets**, **SQL**, **Tidyverse**, and **Tableau**.
