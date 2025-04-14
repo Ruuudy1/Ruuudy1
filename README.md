@@ -42,7 +42,7 @@
 
 ## 💼 Experience
 
-### Vice President && Quantitative Algorithmic Trader
+### Co-President of Triton Quantitative Trading
 *June 2024 – Present*  
 Representing UCSD in their Official Quantitative Trading Team, competing in QuantConnect’s Open-Quant League.
 
