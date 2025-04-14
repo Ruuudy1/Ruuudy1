@@ -82,7 +82,7 @@ Deployed and enhanced KP’s official website using **React, HTML, & CSS** to cr
 ## 🌎 Languages
 - English
 - Spanish
-- Portuguese (1100+ consecutive days)
+- Portuguese (1200+ consecutive days)
 
 ## 📜 Certifications
 - [1st Place Winner of QuantConnects 2024-Q3 Quant League](https://www.linkedin.com/in/rudy-osuna/details/certifications/1735622028916/single-media-viewer/?profileId=ACoAAD9LcvMBz9ish5PyIlqnO-Uq7RhvH4qdOtQ)
