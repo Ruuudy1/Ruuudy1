@@ -32,7 +32,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
 </div>
 
+### 💻 Programming Languages
+Python · Java · C++ · C · JavaScript · TypeScript · ARM Assembly · C# · R · SystemVerilog · HTML · CSS
+
+### 🌐 Web & Fullstack Development
+React · Node.js · Flask · REST APIs · Express.js · SQL · MongoDB · Docker · Mocha · Postman · DBeaver
+
+### 📊 Data Science & Quantitative Analysis
+Pandas · NumPy · Scikit-learn · Jupyter Notebooks · Tableau · Google Sheets · Microsoft Excel · QuantConnect · LEAN Engine
+
+### 🔧 DevOps & Developer Tools
+Git · GitHub · GitBash · Vim · VS Code · Eclipse · Google Cloud Platform (GCP) · Docker · LaTeX (Overleaf)
+
+### ⚙️ Hardware Acceleration & Systems
+FPGA SoC (PYNQ-Z2) · AMD Vivado · EDA Playground · SystemVerilog · OpenCL · CUDA · RTL Simulation · Ethernet Protocol Design
+
+### 🧪 Testing & CI/CD
+JUnit · Mocha · GitHub Actions · Unit Testing · Integration Testing · Debugging Tools
+
+### 🌎 Languages
+English · Spanish · Portuguese (1200+ consecutive days on Duolingo)
+
 ---
+
 
 ## 📈 Experience Highlights
 
