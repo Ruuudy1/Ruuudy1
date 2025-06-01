@@ -76,8 +76,8 @@ English · Spanish · Portuguese (1200+ consecutive days on Duolingo)
 
 **University of California, San Diego (UCSD)**  
 - B.S. Computer Science, Minor in Business Analytics  
-- Ruo Gu “Billy” Li Scholarship Recipient  
-- CCR Certified by CSE Department
+- First Ever Ruo Gu “Billy” Li Scholarship Recipient  
+- SWELL (Students Who Engage, Learn and Lead): Achieved UCSD CCR certification
 
 ---
 
