@@ -32,13 +32,29 @@
 - GitHub: [github.com/Ruuudy1](https://github.com/Ruuudy1)
 - QuantConnect: [https://www.quantconnect.com/u/rudy-osuna#certificates](https://www.quantconnect.com/u/rudy-osuna#certificates)
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-- **Languages**: Java, Python, ARM Assembly, C, C++, JavaScript, HTML/CSS, R
-- **Frameworks**: React, Node.js, Flask, JUnit
-- **Developer Tools**: Git, Vim, GitHub, GitBash, Google Cloud Platform, VS Code, Docker, Eclipse, RStudio
-- **Data Analysis**: Google Sheets, Microsoft Excel, Jupyter, Tableau
-- **Other**: LaTeX (Overleaf)
+### 💻 Programming Languages
+Python · Java · C++ · C · JavaScript · TypeScript · ARM Assembly · C# · R · SystemVerilog · HTML · CSS
+
+### 🌐 Web & Fullstack Development
+React · Node.js · Flask · REST APIs · Express.js · SQL · MongoDB · Docker · Mocha · Postman · DBeaver
+
+### 📊 Machine Learning, Data Science & Quantitative Analysis
+Pandas · NumPy · Scikit-learn · Jupyter Notebooks · Tableau · Google Sheets · Microsoft Excel · QuantConnect · LEAN Engine
+
+### 🔧 DevOps & Developer Tools
+Git · GitHub · GitBash · Vim · VS Code · Eclipse · Google Cloud Platform (GCP) · Docker · LaTeX (Overleaf)
+
+### ⚙️ Hardware Acceleration & Systems
+FPGA SoC (PYNQ-Z2) · AMD Vivado · EDA Playground · SystemVerilog · OpenCL · CUDA · RTL Simulation · Ethernet Protocol Design
+
+### 🧪 Testing & CI/CD
+JUnit · Mocha · GitHub Actions · Unit Testing · Integration Testing · Debugging Tools
+
+### 🌎 Languages
+English · Spanish · Portuguese (1200+ consecutive days on Duolingo)
+
 
 ## 💼 Experience
 
