@@ -2,8 +2,8 @@
 
 🎓 **Computer Science Major** @ UC San Diego  
 📊 **Business Analytics Minor** @ Rady School of Management  
-💼 Incoming **Fintech Software Engineer Intern** @ LPL Financial  
-🎯 Incoming President @ Triton Quantitative Trading UCSD
+💼 **Fintech Software Engineer Intern** @ LPL Financial  
+🎯 President @ Triton Quantitative Trading UCSD
 
 ---
 
