@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rudy Osuna (he/him)
 
-🎓 **Computer Science Major** @ UC San Diego  
-📊 **Business Analytics Minor** @ Rady School of Management  
+🎓 **Computer Science Major** @ CSE UC San Diego  
+📊 **Business Analytics Minor** @ Rady School of Management UC San Diego  
 💼 **Fintech Software Engineer Intern** @ LPL Financial  
 🎯 President @ Triton Quantitative Trading UCSD
 
