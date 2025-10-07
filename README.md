@@ -59,11 +59,11 @@ English · Spanish · Portuguese (1200+ consecutive days on Duolingo)
 ## 📈 Experience Highlights
 
 ### 🧠 Triton Quantitative Trading – UC San Diego
-**Co-President (2025–Present)**  
+**President (2024–Present)**  
 - Leading UCSD's official quant team in global competitions like QuantConnect’s Open-Quant League.  
 - Hosting seminars in algorithmic trading, machine learning, risk modeling, and hedge strategies.
 
-### 💻 Fintech Software Engineer Intern – LPL Financial (Incoming 2025)  
+### 💻 Fintech Software Engineer Intern – LPL Financial (Summer 2025)  
 - Developing fintech applications and automating financial data flows.
 
 ### 🌐 Fullstack Developer – Kaibigang Pilipino  
