@@ -94,17 +94,6 @@ English · Spanish · Portuguese (1200+ consecutive days on Duolingo)
 
 ---
 
-## 🧪 Projects
-
-### ⚡ HighLife: Conway’s Game of Life
-- Implemented in C and ARM Assembly for performance optimization.
-
-### 🧱 QuantConnect Algorithmic Suite
-- Designed and optimized trading bots for US Equities, Crypto, and Forex.
-- 2× 1st Place Winner – QuantConnect Open-Quant League.
-
----
-
 ## 🧾 Certifications
 
 - [🥇 1st Place – QuantConnect Q3 2024 Open-Quant League](https://www.linkedin.com/in/rudy-osuna/details/certifications/1735622028916/single-media-viewer/?profileId=ACoAAD9LcvMBz9ish5PyIlqnO-Uq7RhvH4qdOtQ)
@@ -118,7 +107,7 @@ English · Spanish · Portuguese (1200+ consecutive days on Duolingo)
 
 - English (Native)  
 - Spanish (Native)  
-- Portuguese (Professional, 1200+ day Duolingo streak)
+- Portuguese (Professional, 1300+ day Duolingo streak)
 
 ---
 
