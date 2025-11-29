@@ -4,7 +4,7 @@
 
 🎯 **President** @ Triton Quantitative Trading UCSD
 
-📊 **Quantitative Developer** @ QuantConnect 
+📊 **Quantitative Developer Intern** @ QuantConnect 
 
 💼 **Incoming MLE** @ LPL Financial  
 
