@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Rudy Osuna (he/him)
 
 🎓 **Computer Science Major** @ CSE UC San Diego  
-📊 **Business Analytics Minor** @ Rady School of Management UC San Diego  
+📊 **Quantitative Developer** @ QuantConnect 
 💼 **Incoming MLE** @ LPL Financial  
 🎯 President @ Triton Quantitative Trading UCSD
 
 ---
 
 <p align="left">
-  I’m passionate about bridging the gap between finance and computer science—bringing complex financial concepts to life through hands-on algorithmic trading, data analysis, and hardware acceleration. With a proven track record in quantitative finance competitions and teaching experience in trading strategies, I strive to empower others through accessible financial education.
+  I’m passionate about bridging the gap between finance and computer science, bringing complex financial concepts to life through hands-on algorithmic trading, data analysis, and hardware acceleration. With a proven track record in quantitative finance competitions and teaching experience in trading strategies, I strive to empower others through accessible financial education.
 </p>
 
 <p align="left">
