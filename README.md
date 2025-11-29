@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Rudy Osuna (he/him)
 
-🎓 **Computer Science Major** @ CSE UC San Diego  
+🎓 **Computer Science Major** @ CSE UC San Diego
+
+🎯 **President** @ Triton Quantitative Trading UCSD
+
 📊 **Quantitative Developer** @ QuantConnect 
+
 💼 **Incoming MLE** @ LPL Financial  
-🎯 President @ Triton Quantitative Trading UCSD
 
 ---
 
